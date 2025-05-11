@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+contact:
+  message: Welcome to eazybank loans microservice QA lead contact
+  contactDetails:
+    name: Srinath Bandara - QA Lead
+    email: srinath@gmail.com
+  onCallSupport:
+    - (789) 456-5592
+    - (789) 654-5593
