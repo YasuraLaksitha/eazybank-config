@@ -9,7 +9,7 @@ build:
 contact:
   message: Welcome to eazybank accounts microservice production owner contact
   contactDetails:
-    name: Amila Kumara - Production owner
+    name: Amila Kumara - production owner
     email: akumara@eazrybank.com
   onCallSupport:
     - (456) 456-7891
